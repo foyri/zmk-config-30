@@ -61,7 +61,6 @@
         lpar { key-positions = <2 12>; bindings = <&kp LPAR>; layers = <DEF_L SYM_L NUM_L>; };
         rpar { key-positions = <7 17>; bindings = <&kp RPAR>; layers = <DEF_L SYM_L NUM_L>; };
         lbrc { key-positions = <3 13>; bindings = <&kp LBRC>; layers = <DEF_L SYM_L NUM_L>; };
-        rbrc { key-positions = <6 16>; bindings = <&kp RBRC>; layers = <DEF_L SYM_L NUM_L>; };
 
         /* Convenience */
         esc { key-positions = <3 4>; bindings = <&kp ESC>; };
